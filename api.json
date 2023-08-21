@@ -16,7 +16,7 @@
   }
 ]},
 "iptv":  {
-  "default":1,
+   "default":1,
    "data":[
  {
     "name": "电视直播",
@@ -27,7 +27,7 @@
   }
 ]},
 "analyzes":  {
-  "default":1,
+   "default":1,
    "data":
 [
   {
