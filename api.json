@@ -1,0 +1,66 @@
+{
+ "sites": {
+   "default":1,
+   "data":[
+  {
+    "id": 1,
+    "key": "量子资源",
+    "name": "量子资源",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/",
+    "type": 1,
+    "search": 1,
+    "playUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": true,
+    "categories": "动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"
+  },
+  {
+    "id": 2,
+    "key": "非凡资源",
+    "name": "非凡资源",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+    "type": 1,
+    "search": 1,
+    "playUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": true,
+    "categories": "动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"
+  }
+]},
+"iptv":  {
+  "default":1,
+   "data":[
+ {
+    "name": "电视直播",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/ZYPlayer/main/live.m3u",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 1
+  }
+]},
+"analyzes":  {"default":1,
+   "data":
+[
+  {
+    "name": "线路1",
+    "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+    "isActive": true,
+    "id": 1
+  },
+  {
+    "name": "线路2",
+    "url": "http://json.g9.pub:66/?url=",
+    "isActive": true,
+    "id": 2
+  },
+  {
+    "name": "线路3",
+    "url": "http://pandown.pro/app/kkdy.php?url=",
+    "isActive": true,
+    "id": 3
+  }
+]
+}
+}
